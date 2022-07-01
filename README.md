@@ -14,4 +14,4 @@ Skills: REACT / JS / HTML / CSS / NEXT / EXPRESS / MONGODB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wannderlust&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonnderlust)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannderlust)](https://github.com/anuraghazra/github-readme-stats)
