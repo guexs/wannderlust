@@ -1,12 +1,12 @@
-### Hi there, my name is Wannderlust.
-#### Im a web developer in **Argentina**
+### <h1>Hi there, my name is Wannderlust.</h1>
+#### <h2>Im a web developer in **Argentina**</h2>
 ![Im a web developer in **Argentina**](https://pbs.twimg.com/profile_banners/1476009061523070976/1656599670/600x200)
 
-I am a fullstack web developer, I am interested in learning more and being able to demonstrate my **wisdom**.
+<p>I am a fullstack web developer, I am interested in learning more and being able to demonstrate my **wisdom**.
 
-I am starting to create in order to be able to gain **experience** and be able to demonstrate it in a big way.
+I am starting to create in order to be able to gain **experience** and be able to demonstrate it in a big way.</p>
 
-**Skills**: REACT / EXPRESS / MONGODB / HTML / CSS / POSTCSS / JAVASCRIPT / TYPESCRIPT / INKSCAPE / REMIX
+<h3>**Skills**: REACT / EXPRESS / MONGODB / HTML / CSS / POSTCSS / JAVASCRIPT / TYPESCRIPT / INKSCAPE / REMIX</h3>
 
 - 🌱 I’m currently learning Remix.Js 
 - 🌱 I’m looking to collaborate on websites 
