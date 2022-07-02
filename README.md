@@ -1,17 +1,13 @@
-### Hi there, my name is Wannderlust
-#### I am a web developer in **Argentina**
-![I am a web developer in **Argentina**](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://twitter.com/sgux715/header_photo)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun, it allows you to create nice
 
-Skills: REACT / JS / HTML / CSS / NEXT / EXPRESS / MONGODB 
+gfdfgfd and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- 🔭 I’m currently working on my skills and my personal project.
-- 🌱 I’m currently learning React and MongoDb.
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wonnderlust)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/SantyZck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sgux715)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wannderlust&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannderlust)](https://github.com/anuraghazra/github-readme-stats)
