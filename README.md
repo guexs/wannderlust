@@ -1,17 +1,11 @@
-<h1>###Hi there, my name is Wannderlust.</h1>
-#### <h2>Im a web developer in **Argentina**</h2>
-![Im a web developer in **Argentina**](https://pbs.twimg.com/profile_banners/1476009061523070976/1656599670/600x200)
+### Hello friend <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm [Santiago](https://thomasbnt.fr) ! 
 
-<p>I am a fullstack web developer, I am interested in learning more and being able to demonstrate my **wisdom**.
+I'm a **argentine developer** 🇦🇷 maintly but touches everything, servers, bots, community management, events, social networks and moore. I mostly on [Dev.to](https://dev.to/wannderlust), I lovin soo much this community. I am a fan of **Svelte** and **React Native** ! I am learning to write better English and **Golang**.
 
-I am starting to create in order to be able to gain **experience** and be able to demonstrate it in a big way.</p>
+- Today, I work on **[my portfolio](https://mrrobot.app)**.
 
-<h3>**Skills**: REACT / EXPRESS / MONGODB / HTML / CSS / POSTCSS / JAVASCRIPT / TYPESCRIPT / INKSCAPE / REMIX</h3>
+if you want to be keep up to date on my adventures, follow me everywhere.
 
-- 🌱 I’m currently learning Remix.Js 
-- 🌱 I’m looking to collaborate on websites 
-- 🌱 How to reach me: dev.to/wannderlust 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Support me on BMC](https://img.shields.io/badge/Follow%20me%20on-DEV-black?style=for-the-badge)](https://dev.to/thomasbnt)
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wannderlust)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/wannderlust)  
-
+⭐️ From [Wannderlust](https://github.com/wannderlust)
