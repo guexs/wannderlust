@@ -8,4 +8,4 @@ if you want to be keep up to date on my adventures, follow me everywhere.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Thomasbnt_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Thomasbnt_) [![Support me on BMC](https://img.shields.io/badge/Follow%20me%20on-DEV-black?style=for-the-badge)](https://dev.to/thomasbnt)
 
-⭐️ From [Wannderlust](https://github.com/wannderlust)
+⭐️ From [Wannderlust](https://github.com/wannderlust)!
