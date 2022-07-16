@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zck</h1>
-<h3 align="center">I am an enthusiastic programmer of backend and frontend technologies</h3>
+<h3 align="center">I am an enthusiastic programmer of backend and frontend technologies 🌠</h3>
 
 - 🔭 I’m currently working on **Hightlight**
 
